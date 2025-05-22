@@ -1,0 +1,4 @@
+admin@company.com;admin123;Admin;Jonalda;Gjoka;2025-04-15
+leader@company.com;leader123;Team Leader;Leader;User;2025-04-15
+programmer@company.com;prg123;Programmer;Prog;User;2025-04-15
+jona@company.com;jona1234;Team Leader;jona;gjoka;2025-03-04

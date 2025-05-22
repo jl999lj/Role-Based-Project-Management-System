@@ -1,0 +1,3 @@
+Projekti Alpha;Sistem për menaxhimin e dokumenteve;65;- John Smith | Backend | Faza: Zhvillim\n- Jane Smith | Frontend | Faza: Testim\n-Jonalda
+Projekti Beta;Platformë për komunikim ekipor;40;- Alex Johnson | Database | Faza: Dizajn\n- Joe Doe | UI/UX | Faza: Planifikim
+Projekti Gamma;Aplikacion për raportime mujore;80;- Michael Brown | Tester | Faza: Testim\n- Mark Wilson | PM | Faza: Finalizim
